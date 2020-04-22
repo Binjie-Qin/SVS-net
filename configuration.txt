@@ -1,0 +1,28 @@
+[data paths]
+path_local = ./data/
+test_imgs_original = test1_ori.hdf5
+
+[experiment name]
+name = train
+
+
+
+
+
+[training settings]
+#Number of training epochs
+N_epochs = 601
+batch_size = 4
+#if running with nohup
+nohup = True
+
+
+[testing settings]
+#Choose the model to test: best==epoch with min loss, last==last epoch
+best_last = best
+#number of full images for the test
+full_images_to_test = 16
+#How many original-groundTruth-prediction images are visualized in each image
+N_group_visual = 1
+#if running with nohup
+nohup = False
