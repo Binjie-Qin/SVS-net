@@ -17,3 +17,5 @@ python3 ./src/vessel_NN_training.py
 python3 ./3D_new_run_test.py  
 
 
+Citation:
+Dongdong Hao, Song Ding, Linwei Qiu, Yisong Lv, Baowei Fei, Yueqi Zhu, Binjie Qin, Sequential vessel segmentation via deep channel attention network, Neural Networks, preprint, 2020.
