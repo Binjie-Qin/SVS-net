@@ -1,5 +1,6 @@
 Citation:
-Dongdong Hao, Song Ding, Linwei Qiu, Yisong Lv, Baowei Fei, Yueqi Zhu, Binjie Qin*, Sequential vessel segmentation via deep channel attention network, Neural Networks, 128: 172-187, 2020. https://arxiv.org/abs/2102.05229
+D. Hao, S. Ding, L. Qiu, Y. Lv, B. Fei, Y. Zhu, B. Qin*, Sequential vessel segmentation via deep channel attention network, Neural Networks, 128: 172-187, 2020. 
+https://arxiv.org/abs/2102.05229
 
 
 
