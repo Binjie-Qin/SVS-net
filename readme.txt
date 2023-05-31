@@ -3,6 +3,9 @@ D. Hao, S. Ding, L. Qiu, Y. Lv, B. Fei, Y. Zhu, B. Qin*, Sequential vessel segme
 https://arxiv.org/abs/2102.05229
 
 
+Since the dataset is too large to be uploaded to github, Please email the author bjqin@sjtu.edu.cn for the access of the dataset.
+
+
 
 1. Environment：
 keras=2.1.6
