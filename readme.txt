@@ -3,8 +3,7 @@ D. Hao, S. Ding, L. Qiu, Y. Lv, B. Fei, Y. Zhu, B. Qin*, Sequential vessel segme
 https://arxiv.org/abs/2102.05229
 
 
-Since the dataset is too large to be uploaded to github, Please email the author bjqin@sjtu.edu.cn for the access of the dataset.
-
+Notes: The dataset is not publically accessed for the research purpose due to the medical ethics review agreement assigned with hospital offical, who confirmed that the raw image data should not be given to anyone outside the author research team. 
 
 
 1. Environment：
