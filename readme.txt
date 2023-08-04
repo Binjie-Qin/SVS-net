@@ -1,4 +1,4 @@
-Note: The dataset is not publically accessed for the research purpose due to the medical ethics review issued by hospital offical, who confirmed that the raw image data should not be given to anyone outside the author team. 
+Note: The dataset is not publically accessed for the research purpose due to the medical ethics review issued by the hospital offical, who confirmed that the raw image data should not be given to anyone outside the author team. 
 
 Citation:
 D. Hao, S. Ding, L. Qiu, Y. Lv, B. Fei, Y. Zhu, B. Qin*, Sequential vessel segmentation via deep channel attention network, Neural Networks, 128: 172-187, 2020. 
